@@ -1,0 +1,15 @@
+{
+  "rom": "EvolutionX v.9.9.5 HotFix",
+  "android_version": "14",
+  "device": "Redmi 13C / Poco C65",
+  "codename": "gale/gust",
+  "build_type": "UNOFFICIAL",
+  "date": "2025-07-09",
+  "maintainer_name": "VannTakashii.",
+  "telegram": "panzzxz",
+  "telegram_id": 6227152745,
+  "download_url": "https://github.com/VannTakashi/galer-roms/releases/download/v.9.9.5/EvolutionX-14.0-20250708-gale-v9.9.5-Unofficial.zip",
+  "screenshot_url": "https://t.me/epanblukutuk/343?single",
+  "stock_recovery": "https://github.com/VannTakashi/galer-roms/releases/download/v.9.9.5/bootevox.img",
+  "flashing_guide": "https://t.me/gudanksiepan/23"
+}
