@@ -1,0 +1,15 @@
+{
+  "rom": "RogUI",
+  "android_version": "14",
+  "device": "Redmi 13C / Poco C65",
+  "codename": "gale/gust",
+  "build_type": "UNOFFICIAL",
+  "date": "2025-07-30",
+  "maintainer_name": "VannTakashi",
+  "telegram": "@panzzxz",
+  "telegram_id": 6227152745,
+  "download_url": "https://drive.google.com/file/d/13X0dY5yHFzZ1rgHdRHutRKkfFSUeVYKv/view?usp=drivesdk",
+  "screenshot_url": "https://t.me/epanblukutuk/395?single",
+  "flashing_guide": "https://t.me/gudanksiepan/36",
+  "ported_from_device": "Asus ROG Ultimate 6D"
+}
