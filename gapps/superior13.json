@@ -1,0 +1,15 @@
+{
+  "rom": "SuperiorOS LTS",
+  "android_version": "13",
+  "device": "Redmi 13C / Poco C65",
+  "codename": "gale/gust",
+  "build_type": "UNOFFICIAL",
+  "date": "2025-09-04",
+  "maintainer_name": "VannTakashi",
+  "telegram": "panzzxz",
+  "telegram_id": 6227152745,
+  "download_url": "https://github.com/VannTakashi/galer-roms/releases/download/Thirteen/SuperiorOS-Thirteen-gale-GAPPS-EOL-20250904-0919.zip",
+  "screenshot_url": "https://t.me/epanblukutuk/515?single",
+  "stock_recovery": "https://github.com/VannTakashi/galer-roms/releases/download/Thirteen/bootsuperiorgale13.img",
+  "flashing_guide": "https://t.me/gudanksiepan/23"
+}
