@@ -1,0 +1,15 @@
+{
+  "rom": "Lunaris-AOSP",
+  "android_version": "16",
+  "device": "Redmi 13C / Poco C65",
+  "codename": "gale/gust",
+  "build_type": "UNOFFICIAL",
+  "date": "2025-09-17",
+  "maintainer_name": "VannTakashi",
+  "telegram": "panzzxz",
+  "telegram_id": 6227152745,
+  "download_url": "https://github.com/VannTakashi/galer-roms/releases/download/Lunaris-3.3/Lunaris-AOSP-gale-Community-3.3-Vanilla-2025091712.zip",
+  "screenshot_url": "https://t.me/epanblukutuk/525?single",
+  "stock_recovery": "https://github.com/VannTakashi/galer-roms/releases/download/Lunaris-3.3/bootlunaris.img",
+  "flashing_guide": "https://t.me/gudanksiepan/23"
+}
