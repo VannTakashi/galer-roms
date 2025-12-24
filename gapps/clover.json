@@ -1,15 +1,15 @@
 {
   "rom": "The Clover Project",
-  "android_version": "15",
+  "android_version": "16",
   "device": "Redmi 13C / POCO C65",
   "codename": "gale/gust",
   "build_type": "UNOFFICIAL",
-  "date": "2025-08-30",
-  "maintainer_name": "VannTakashii.",
+  "date": "2025-12-23",
+  "maintainer_name": "vannxavero",
   "telegram": "panzzxz",
   "telegram_id": 6227152745,
-  "download_url": "https://example.com/TheCloverProject-GAPPS.zip",
-  "screenshot_url": "https://example.com/ss.jpg",
-  "stock_recovery": "https://example.com/stock_recovery.html",
-  "flashing_guide": "https://example.com/flashing_guide.html"
+  "download_url": "https://github.com/VannTakashi/galer-roms/releases/download/v3.5/CloverProject-v3.5-gale-UNOFFICIAL-20251223-0256.zip",
+  "screenshot_url": "https://t.me/epanblukutuk/544?single",
+  "stock_recovery": "https://github.com/VannTakashi/galer-roms/releases/download/v3.5/bootclovergale.img",
+  "flashing_guide": "https://t.me/gudanksiepan/23"
 }
